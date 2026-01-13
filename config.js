@@ -1,0 +1,23 @@
+export const nameBand = 'MARLON ROUDETTE';
+export let nameSongs = [
+	"WHEN THE BEAT DROPS OUT", /*1*/
+	"NEW AGE", /*2*/
+	"EVERYBODY FEELING SOMETHING", /*3*/
+	"ULTRA LOVE", /*4*/
+	"WHEN THE BEAT DROPS OUT (MATOMA REMIX)", /*5*/
+	"BODY LANGUAGE", /*6*/
+	"ANTI HERO (BRAVE NEW WORLD)", /*7*/
+	"FLICKER", /*8*/
+	"RIDING HOME", /*9*/
+	"AMERICA", /*10*/
+	"THE LOSS", /*11*/
+	"NO WATER", /*12*/
+	"CLOSER", /*13*/
+	"STORYLINE", /*14*/
+	"BROTHERHOOD OF THE BROKEN", /*15*/
+	"HOLD ON ME", /*16*/
+	"CITY LIKE THIS", /*17*/
+	"COME ALONG", /*18*/
+	"ECHOLOCATION", /*19*/
+	"INSOMNIA", /*20*/
+]
